@@ -34,7 +34,7 @@ The service plans included in this offer are:
 
 ## Who is eligible
 
-Users who do not have an Office 365 license that includes Teams can initiate the Microsoft Teams Commercial Cloud Trial offer. For example, if a user has Office 365 Business Premium (which includes Teams), and the Teams service plan is disabled, they are not eligible for the trial.
+Users with Office 365 license which does not include Microsoft Teams, can initiate the Microsoft Teams Commercial Cloud Trial offer. For example, if a user has Office 365 Business Premium (which includes Teams), and the Teams service plan is disabled, they are not eligible for the trial.
 
 Also, your tenant is NOT eligible for the trial if: 
 - You are a Syndication Partner Customer
